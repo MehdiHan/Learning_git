@@ -11,17 +11,17 @@
 - [x] Log commits
 - [x] Initialize a git repo on github
 - [x] Push commits to github
-- [ ] Fork a github repo
-- [ ] Clone a github repo
-- [ ] Create a branch in a local repo
-- [ ] Stage files/Make commits to a local branch
-- [ ] Push a branch to github
-- [ ] Make a pull request from a forked github repo
-- [ ] Accept a pull request on a github repo
-- [ ] Setup github pages
-- [ ] Setup CLI git aliases
+- [x] Fork a github repo
+- [x] Clone a github repo
+- [x] Create a branch in a local repo
+- [x] Stage files/Make commits to a local branch
+- [x] Push a branch to github
+- [x] Make a pull request from a forked github repo
+- [x] Accept a pull request on a github repo
+- [x] Setup github pages
+- [x] Setup CLI git aliases
 
 ## Stretch
 
-- [ ] Resolve Merge Conflicts
-- [ ] Add collaborators to a github repo
+- [x] Resolve Merge Conflicts
+- [x] Add collaborators to a github repo
